@@ -1,0 +1,27 @@
+body
+{
+    background-image:linear-gradient(120deg,rgb(230, 197, 197),rgb(221, 185, 185),rgb(228, 172, 172));
+}
+#btn
+{
+  border: 2px solid rgb(11, 129, 207);
+  border-radius: 10px;
+  padding:5px 13%;
+  margin:1% 33%;
+  color: rgb(238, 255, 0);
+  background-color: rgb(238, 145, 181);
+  font-weight: bolder;
+  font-size: 16px;
+}
+#alphabet
+{
+  border:4px solid rgb(70, 175, 245);
+  border-radius:50%;
+  padding:9% 13%;
+  margin:1% 33%;
+  color:rgba(141, 10, 10, 0.863);
+  background-image:linear-gradient(120deg,rgba(248, 175, 175, 0.23),rgba(110,150,230,0.5),rgba(120,60, 120,0.75));
+  font-size:150px;
+  font-weight:bolder;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
